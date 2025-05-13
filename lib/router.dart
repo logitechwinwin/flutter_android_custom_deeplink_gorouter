@@ -9,7 +9,7 @@ final GoRouter appRouter = GoRouter(
     GoRoute(
       path: '/',
       builder: (BuildContext context, GoRouterState state) {
-        return const HomePage(title: 'Voice detect');
+        return HomePage(title: 'Voice detect');
       },
       routes: <RouteBase>[
         GoRoute(
