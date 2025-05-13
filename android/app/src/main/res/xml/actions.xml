@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actions>
+    <action intentName="com.example.myapp.START_ACTIVITY">
+        <description>Start My Activity</description>
+        <parameter name="action" value="startActivity"/>
+    </action>
+</actions>

@@ -1,0 +1,8 @@
+This is custom deep link test app
+
+You can test this app using QR code generator and QR & Barcode.
+
+For testing: you must generate this url and can test
+	hello://second				launch this app
+	hello://second/second			launch second page of this app
+	hello://second/second/hello		launch second page with hello parameters of this app
